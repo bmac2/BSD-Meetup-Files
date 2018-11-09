@@ -1,0 +1,5 @@
+Why is Beastie so cool? and how did we get here?
+
+The first half of the presentation will be a review of the history of Unix/BSD/Linux and operating systems.  Discussion of past lawsuits, where the code originally came from, and what project forked from what other project.
+
+The second half will be a discussion on the major differences between FreeBSD and a Linux distro from a high level.  Comparing how changes to the Freebsd are chosen compared to the linux kernel.  Committee runs FreeBSD, Linus Torvalds does the Linux Kernel (which is Linux itself), etc.
